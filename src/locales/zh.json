@@ -10,7 +10,7 @@
   "keyword_placeholder": "请输入匹配文本",
   "target_field": "目标字段",
   "target_field_placeholder": "请选择目标字段",
-  "add_tag": "添加标签",
+  "add_tag": "添加标签（可添加多个，按enter生成一个标签）",
   "add_tag_placeholder": "请输入要添加的标签",
   "submit_button": "批量添加标签",
   "add_new_field": "【新增一列】",

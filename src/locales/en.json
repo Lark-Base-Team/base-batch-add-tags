@@ -10,7 +10,7 @@
   "keyword_placeholder": "Please enter the matching text",
   "target_field": "Target field",
   "target_field_placeholder": "Please select a target field",
-  "add_tag": "Add a tag",
+  "add_tag": "Add tags (you can add multiple, press enter to create a tag)",
   "add_tag_placeholder": "Enter the tag you want to add",
   "submit_button": "Batch add tags",
   "add_new_field": "[Add a new column]",

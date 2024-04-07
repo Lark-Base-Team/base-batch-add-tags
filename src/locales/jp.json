@@ -10,7 +10,7 @@
   "keyword_placeholder": "マッチングテキストを入力してください",
   "target_field": "ターゲットフィールド",
   "target_field_placeholder": "ターゲットフィールドを選択してください",
-  "add_tag": "タグを追加",
+  "add_tag": "タグを追加する（複数追加可能、エンターキーを押してタグを作成）",
   "add_tag_placeholder": "追加したいタグを入力してください",
   "submit_button": "タグを一括追加",
   "add_new_field": "[新しい列を追加]",
