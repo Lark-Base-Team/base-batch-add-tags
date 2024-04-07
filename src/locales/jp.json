@@ -1,0 +1,20 @@
+{
+  "title": "これは中国語のタイトルです",
+  "select_table": "テーブルを選択",
+  "select_table_placeholder": "操作するテーブルを選択してください",
+  "select_field": "マッチングするフィールドを選択",
+  "select_field_placeholder": "マッチングするフィールドを選択してください",
+  "match_function": "マッチング条件",
+  "match_function_placeholder": "マッチング条件を選択してください",
+  "keyword": "マッチングテキスト",
+  "keyword_placeholder": "マッチングテキストを入力してください",
+  "target_field": "ターゲットフィールド",
+  "target_field_placeholder": "ターゲットフィールドを選択してください",
+  "add_tag": "タグを追加",
+  "add_tag_placeholder": "追加したいタグを入力してください",
+  "submit_button": "タグを一括追加",
+  "add_new_field": "[新しい列を追加]",
+  "label": "ラベル",
+  "include_function": "含む",
+  "equal_function": "等しい"
+}

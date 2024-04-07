@@ -1,0 +1,20 @@
+{
+  "title":"这是中文标题",
+  "select_table": "选择表格",
+  "select_table_placeholder": "请选择一个要操作的表格",
+  "select_field": "选择需要匹配的文本字段",
+  "selct_field_placeholder": "请选择需要匹配的字段",
+  "match_funtion": "匹配条件",
+  "match_funtion_placeholder": "请选择一个匹配条件",
+  "keyword": "匹配文本",
+  "keyword_placeholder": "请输入匹配文本",
+  "target_field": "目标字段",
+  "target_field_placeholder": "请选择目标字段",
+  "add_tag": "添加标签",
+  "add_tag_placeholder": "请输入要添加的标签",
+  "submit_button": "批量添加标签",
+  "add_new_field": "【新增一列】",
+  "label": "标签",
+  "include_function": "包含",
+  "equal_function": "等于"
+}
